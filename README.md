@@ -6,13 +6,14 @@
 ### 2、[smartTable：Android平台Excel表格](https://github.com/huangyanbin/smartTable)  ###
 ### 3、日历控件：[CalenderView](https://github.com/huanghaibin-dev/CalendarView) ###
 ### 4、城市选择器：[citypicker](https://github.com/crazyandcoder/citypicker)，[CityPicker](https://github.com/zaaach/CityPicker) ###
-
-
+### 5、图表：[MPAndroidChart](https://github.com/huanghaibin-dev/CalendarView) ，[hellocharts-android](https://github.com/lecho/hellocharts-android)， [android-kline(股票K线图)](https://github.com/VinsonGuo/android-kline)  ###
+### 6、轮播图：[banner](https://github.com/youth5201314/banner) ###
 
 ## 第二部分：实用组件库 ##
 ### 1、[IPC进程通信库：AndLinker](https://github.com/codezjx/AndLinker) ###
 ### 2、[onSaveInstanceState数据恢复](https://github.com/JavaNoober/AutoSave) ###
-### 3、[沉浸式状态栏适配](https://github.com/gyf-dev/ImmersionBar) ###
+### 3、沉浸式状态栏适配: [ImmersionBar](https://github.com/PhilJay/MPAndroidChart) ###
+### 4、Java与js交互：[JsBridge](https://github.com/dhhAndroid/JsBridge) ###
 
 
 
