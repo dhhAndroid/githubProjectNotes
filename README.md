@@ -4,10 +4,11 @@
 ## 第一部分：自定义控件 ##
 ### 1、[一款万能遥控器的交互效果](https://github.com/simplezhli/RemoteControlView) ###
 ### 2、[smartTable：Android平台Excel表格](https://github.com/huangyanbin/smartTable)  ###
-### 3、日历控件：[CalenderView](https://github.com/huanghaibin-dev/CalendarView) ###
+### 3、日历控件：[CalenderView](https://github.com/huanghaibin-dev/CalendarView)，[material-calendarview](https://github.com/prolificinteractive/material-calendarview) ###
 ### 4、城市选择器：[citypicker](https://github.com/crazyandcoder/citypicker)，[CityPicker](https://github.com/zaaach/CityPicker) ###
 ### 5、图表：[MPAndroidChart](https://github.com/huanghaibin-dev/CalendarView) ，[hellocharts-android](https://github.com/lecho/hellocharts-android)， [android-kline(股票K线图)](https://github.com/VinsonGuo/android-kline)  ###
 ### 6、轮播图：[banner](https://github.com/youth5201314/banner) ###
+### 7.RecyclerView：[RecyclerViewSnap](https://github.com/rubensousa/RecyclerViewSnap)，，[LayoutManagerGroup](https://github.com/DingMouRen/LayoutManagerGroup) ###
 
 ## 第二部分：实用组件库 ##
 ### 1、[IPC进程通信库：AndLinker](https://github.com/codezjx/AndLinker) ###
