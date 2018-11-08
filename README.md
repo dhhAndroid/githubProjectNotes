@@ -15,6 +15,7 @@
 ### 2、[onSaveInstanceState数据恢复](https://github.com/JavaNoober/AutoSave) ###
 ### 3、沉浸式状态栏适配: [ImmersionBar](https://github.com/PhilJay/MPAndroidChart) ###
 ### 4、Java与js交互：[JsBridge](https://github.com/dhhAndroid/JsBridge) ###
+### 5、单Activity多Fragment管理器：[Fragmentation](https://github.com/YoKeyword/Fragmentation) ###
 
 
 
